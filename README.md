@@ -1,6 +1,6 @@
-# Smithery Web Issue Tracker
+# Smithery Registry Issue Tracker
 
-This repository is used to track issues and feature requests for [Smithery](https://smithery.ai) - the fastest way to connect AI agents to MCPs.
+This repository is used to track issues and feature requests for [Smithery Registry](https://smithery.ai) - the largest marketplace for MCP servers.
 
 ## Reporting Issues
 
