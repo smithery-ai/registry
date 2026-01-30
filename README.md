@@ -28,7 +28,6 @@ For feature requests, please describe:
 
 - [Smithery Website](https://smithery.ai)
 - [Documentation](https://smithery.ai/docs)
-- [Discord Community](https://discord.gg/smithery)
 
 ## License
 
